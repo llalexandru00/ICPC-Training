@@ -1,7 +1,7 @@
 # ICPC-Training
 Problems solved in order to train for ICPC
 
-#Tracker
+# Tracker
 
 19/04/2019
   - URAL Timus: 1293 - Eniya 
